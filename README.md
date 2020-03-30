@@ -91,5 +91,5 @@ pembuatan form dan table sederhana menggunakan sublime text 3
 </table>
 </body>
 </html>
-jika foto profil ngak keluar silahkan copy terus jalankan ditext editing yang dimiliki
+jika foto profil tidak keluar silahkan copy terus jalankan ditext editing yang dimiliki
 #staycalm
